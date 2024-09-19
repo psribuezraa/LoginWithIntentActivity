@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login Page</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="phoneNumber">Phone number</string>
+    <string name="username">Username</string>
+    <string name="gender">Gender</string>
+    <string name="have_account">Do you have an account? </string>
+    <string name="login">Login</string>
+    <string name="signOut">Sign Out</string>
+</resources>
